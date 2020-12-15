@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="222.195.93.60:1642/EmphasisSelection" createEmptyFolders="true">
+    <serverData>
+      <paths name="222.195.93.60:1402">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="222.195.93.60:1641/EmphasisSelection">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/fengchao/condalab/EmphasisElection" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/utils/stanford-corenlp-4.1.0" />
+            <excludedPath path="/data/fengchao/condalab/EmphasisElection/utils/stanford-corenlp-4.1.0" />
+            <excludedPath path="/data/fengchao/condalab/EmphasisElection/all_outputs/saved_models" />
+            <excludedPath local="true" path="$PROJECT_DIR$/all_outputs/saved_models" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="222.195.93.60:1641/MIE">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="222.195.93.60:1642/EmphasisSelection">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/fengchao/condalab/EmphasisElection" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="222.195.93.60:1642/MIE">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="222.195.93.60:1642/MIE-bert-plain">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="fengchao@222.195.93.60:1641">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data/fengchao/condalab/EmphasisElection" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
